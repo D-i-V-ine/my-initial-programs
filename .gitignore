@@ -1,0 +1,23 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code build cache (optional)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
