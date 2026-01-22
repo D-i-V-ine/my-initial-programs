@@ -91,4 +91,5 @@ int main()
             printf("total : %d", sum);
         }
     }
+    return 0;
 }
