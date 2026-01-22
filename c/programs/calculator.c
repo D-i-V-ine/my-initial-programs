@@ -14,14 +14,12 @@ PROGRAM 1
 Basic Calculator using Switch Case
 ----------------------------
 */
-
 #include <stdio.h>
 #include <ctype.h>
 int main()
 {
     int a, b;
     char x;
-
     printf("A for addition\n");
     printf("S for substraction\n");
     printf("M for multiplication\n");
