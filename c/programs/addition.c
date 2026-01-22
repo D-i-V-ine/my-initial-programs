@@ -1,3 +1,25 @@
+/*
+========================================================
+FILE: addition_programs.c
+
+This file contains multiple C programs related to addition.
+Each program is written separately for learning purpose.
+
+To use any program:
+- Copy that specific code
+- Paste it into a new file
+- Compile and run
+
+========================================================
+*/
+
+/*
+----------------------------
+PROGRAM 1
+basic addition program
+adds two numbers only once
+----------------------------
+*/
 #include <stdio.h>
 int main()
 {
@@ -10,6 +32,13 @@ int main()
     return 0;
 }
 
+/*
+----------------------------
+PROGRAM 2
+addition using loop
+asks user to continue
+----------------------------
+*/
 #include <stdio.h>
 #include <conio.h>
 int main()
@@ -32,6 +61,14 @@ int main()
     return 0;
 }
 
+/*
+----------------------------
+PROGRAM 3
+continuous addition
+keeps adding values
+stops when '=' is entered
+----------------------------
+*/
 #include <stdio.h>
 #include <conio.h>
 int main()
