@@ -1,6 +1,5 @@
 /*
 ========================================================
-FILE: addition_programs.c
 
 This file contains multiple C programs related to addition.
 Each program is written separately for learning purpose.
