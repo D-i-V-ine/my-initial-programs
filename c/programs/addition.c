@@ -69,7 +69,6 @@ stops when '=' is entered
 ----------------------------
 */
 #include <stdio.h>
-#include <conio.h>
 int main()
 {
     int num, sum = 0, flag = 1;
